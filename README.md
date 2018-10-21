@@ -1,5 +1,6 @@
 # Kapow
 The Discord Image Fusion
+
 *formerly known as Joo-ify*
 
 # Required NodeJS Packages
